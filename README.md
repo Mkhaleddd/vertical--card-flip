@@ -1,1 +1,1 @@
-# vertical--card-flip
+# vertical-card-flip
